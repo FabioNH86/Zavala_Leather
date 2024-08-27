@@ -1,5 +1,16 @@
-.box {
+body {
     background-image: url(https://hips.hearstapps.com/hmg-prod/images/tine-andrea-and-darja-barannik-are-seen-outside-the-phillip-news-photo-1579028860.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+}
+
+.box {
     width: 100%;
     height: auto;
+    background-color: #eee;
+}
+
+h1 {
+    font-size: 100px;
 }
